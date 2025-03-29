@@ -43,13 +43,13 @@ body {
     margin-left: 20px;
     border: 1px solid black;
     padding: 5px;
-    width: 170px; /* Ograniczenie szerokości ramki */
+    width: 185px; /* Ograniczenie szerokości ramki */
     max-height: 130px; /* Ograniczenie wysokości ramki */
 }
 
 #color-list {
     font-size: 12px;
-    margin-left: 20px;
+    margin-left: 120px; /* Dodanie marginesu z lewej strony */
     white-space: pre-wrap;
 }
 
